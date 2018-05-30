@@ -4,12 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:text="Lê Anh Tuấn"
+    android:text="Lê Anh Tuấn 2018"
     android:padding="20dp"
     android:textSize="20dp"
     android:textColor="#ff00bf"
     android:textStyle="bold|italic"
     >
+
 
 
 </TextView>
